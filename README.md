@@ -21,3 +21,7 @@
 3.SVM
 4.拉格朗日乘子法
 5.核函数
+华为认证在线学习：
+https://ilearningx.huawei.com/courses/course-v1:HuaweiX+EBGTC00000187+2018.9/courseware/4813eb415a374bb79e619e7a79b6e254/6de0871e1946453a8ee94fe8266473c5/?child=first
+吴恩达机器学习：
+https://www.bilibili.com/video/av9912938/?p=1
