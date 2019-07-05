@@ -29,3 +29,6 @@ https://www.bilibili.com/video/av9912938/?p=1
 2019/7/5
 1.核函数的选择
 2.什么是一个好的聚类
+3.sklearn的pipeline机制
+4.模型评价metrics
+5.ROC曲线
