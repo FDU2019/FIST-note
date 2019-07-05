@@ -27,4 +27,5 @@ https://ilearningx.huawei.com/courses/course-v1:HuaweiX+EBGTC00000187+2018.9/cou
 https://www.bilibili.com/video/av9912938/?p=1
 
 2019/7/5
-1.
+1.核函数的选择
+2.什么是一个好的聚类
