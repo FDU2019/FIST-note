@@ -32,3 +32,10 @@ https://www.bilibili.com/video/av9912938/?p=1
 3.sklearn的pipeline机制
 4.模型评价metrics
 5.ROC曲线
+
+2019/7/6
+1.红绿蓝，红黄蓝
+2.可见光波段
+3.视频就是多幅图像
+4.仿射变换
+5.深拷贝和浅拷贝
