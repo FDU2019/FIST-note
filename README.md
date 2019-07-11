@@ -85,3 +85,7 @@ https://www.bilibili.com/video/av9912938/?p=1
 2.XAI，可解释AI
 3.读心术，脑机接口
 4.汉字的个数，二元词组的个数
+
+2019/7/11
+1.TF-IDF的核心思想
+2.doc2vec
