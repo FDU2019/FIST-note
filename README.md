@@ -89,3 +89,9 @@ https://www.bilibili.com/video/av9912938/?p=1
 2019/7/11
 1.TF-IDF的核心思想
 2.doc2vec
+
+2019/7/12
+1.digital twin数字孪生
+2.ubiquitous intelligence泛智能
+3.对抗性攻击
+4.医疗器械CFDA
